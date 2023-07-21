@@ -30,4 +30,5 @@ class="close" title="Close Modal">&times;</span>
       <span class="psw">Forgot <a href="#">password?</a></span>
     </div>
   </form>
-</div>
+</div
+>
